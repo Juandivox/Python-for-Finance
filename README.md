@@ -1,2 +1,1 @@
-# Ciencia-de-datos-Diplomado
-Bases de datos y todo lo visto en el diplomado
+Repository dedicated to Python projects for finance
